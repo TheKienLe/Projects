@@ -1,6 +1,7 @@
 # PROCUREMENT PERFORMANCE ANALYSIS DASHBOARD
 The project includes two files: 
-* Dashboard: [Dashboard.xlsm](Dashboard.xlsm)
+* [Dashboard.xlsm](Dashboard.xlsm): the excel file showing the perfomance of the procurement team and individual employee
+* [Report.pptx](Report.pptx): The ppt file that present our analysis and recommended methodology to enhance the procurement team performance
 
 ## Dataset
 * Dataset Origin: The dataset is generated based on a confidential manufactory located in Binh Duong Province.
