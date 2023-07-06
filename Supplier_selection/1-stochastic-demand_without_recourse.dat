@@ -1,0 +1,16 @@
+/*********************************************
+ * OPL 12.10.0.0 Data
+ * Author: Admin
+ * Creation Date: Mar 20, 2023 at 10:03:46 AM
+ *********************************************/
+SheetConnection MyData("Stochastic_demand.xlsx");
+a from SheetRead(MyData, "Data!B9:K9");
+delta from SheetRead(MyData, "Data!B13:F22" );
+f from SheetRead(MyData, "Data!B52:F61" );
+d from SheetRead(MyData, "Data!J52:N52" );
+q from SheetRead(MyData, "Data!R52:V61");
+l from SheetRead(MyData, "Data!B26:F35");
+u from SheetRead(MyData, "Data!B39:F48");
+p from SheetRead(MyData, "Data!J73:AM73");
+ddelta from SheetRead(MyData, "Data!J65:AM69");
+F from SheetRead(MyData, "Data!J56:N56");
