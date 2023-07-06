@@ -1,6 +1,6 @@
-# THE STOCHASTIC MODEL FOR CAPACITATED SUPPLIER SELECTION WITH QUANTITY DISCOUNT POLICY AND ACTIVATION COST UNDER UNCERTAINTY
-This project aim to study about the Capacitated Supplier Selection problem with Total Quantity Discount policy and
-Activation Costs model. By optimizing the supplier selection, this model minimize the overall cost of purchasing, including the activation cost, while leveraging the quantity discount policy. However, under the uncertainty nature of demand and price in today's economy, I develop the stochastic model that seek to enhance the enhance cost efficiency and make data-driven decisions in the procurement processes.
+# PROCUREMENT PERFORMANCE ANALYSIS DASHBOARD
+The project includes two files: 
+* Dashboard: [Dashboard.xlsm](Dashboard.xlsm)
 
 ## Dataset
 * Dataset Origin: The dataset is generated based on a confidential manufactory located in Binh Duong Province.
