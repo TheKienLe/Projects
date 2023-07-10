@@ -4,10 +4,13 @@ The project includes two files:
 * [Report.pptx](Report.pptx): The ppt file that present our analysis and recommended methodology to enhance the procurement team performance
 
 ## Dataset
-* Dataset Origin: The dataset is generated based on a confidential manufactory located in Binh Duong Province.
-* Attributes: The dataset includes 10 suppliers, 5 discounted intervals, 15 products, and 30 scenarios.
-* Collected Data: The dataset comprises activation status for each supplier, discount rates and bounds within each interval, basic and outsource prices for each product across different suppliers, and product demand.
-* Scenario Variability: Each scenario captures fluctuations in price and demand, with varying probabilities assigned to these fluctuations.
+There are two dataset file which are the [PR Record.xlsm](PR Record.xlsm) (Purchasing Requisition) and [PO Record.xlsm](PO Record.xlsm) (Purchasing Requisition). These data showcase the process within the Procurement department
+
+## The Procurement process
+The procurement process involves the following steps:
+* Purchasing Request Submission: The Procurement team receive purchasing request from various department and may be the procurement team per se. These requests outline the required items or serviced with specific requirement, if neccessary.
+* Processing Requesst and Generating Purchase Orders: The Procurement team works on the requests to assess whether or not they are approved. The team then create the purchase orders based on the approved request and send to the respective suppliers.
+* Monitoring Deadlines: Thoughout the process, both PRs and PO have the deadlines. If either the PR or PO request exceed the due date without completion, they are categorized as PR Pending and PO Pending respectively.
 
 ## Methodology
 To deal uncertainty, I propose the two-stage stochastic model, where the first stage is selection of supplier of supplier and the fixed order quantity thorughout all scenarios, and the second stage (or uncertainty stage) is the adjustment of order quantity in order to leverage the benefit of quantity discout, or fulfill the need for peak demand month. The assumption for the second stage is that we cannot change the supplier and the fixed order quantity that already designed at stage 1. Plus, in the demand uncertainty case, we have another option to purchase products at the spot market when the demand exceeding the capacity of our supplier.
