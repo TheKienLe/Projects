@@ -17,5 +17,8 @@ Tools: VBA, Excel
 Method: ABC Analysis, Linear Programming, Data Analyst.
 
 # Key findings
-We find out there are three key components to be taken into consideration that contribute to the team problems. 
-* 
+We have identified three key components that contribute to the team problems:
+* Purchased Materials: Our purchasing team faces challenges in meeting the demand for highly fluctuated and seasonal materials. These materials require special attention and coordination to ensure timely fulfillment.
+* Purchasing Employees: We have observed an imbalance in the allocation of purchasing requests among employees. Some individuals handle a heavy workload, while others seem to have a lighter load. This disparity needs to be addressed to ensure a fair distribution of responsibilities.
+* Suppliers: To improve our procurement processes, we have conducted a thorough evaluation of our suppliers based on their performance. This evaluation helps us make informed decisions on whether to continue our partnerships or seek alternative suppliers.
+* By addressing these three components, we aim to enhance the efficiency and effectiveness of our procurement team, ensuring better management of purchased materials, fair distribution of workload among employees, and strategic supplier selection
