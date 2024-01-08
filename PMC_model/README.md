@@ -1,4 +1,5 @@
 # ML_credit_card_fraud_detection
+Paper Refferences:https://doi.org/10.1016/j.jisa.2019.02.007
 Credit card fraud has raised the concern for both financial institution and cardholders which result in substatial financial lost and identity theif.
 Two main challenges in credit card fraud detection are that the fraudulent transaction only account for the extremely small amount of total transaction, and the fraudulent behaviour constantly envolve. 
 This project aim to build the robust and accurate Machine Learning model to effectively detect illegal credit card transaction.
