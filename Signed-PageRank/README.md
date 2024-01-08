@@ -1,4 +1,5 @@
 # Maximization Framework for Signed Social Networks by Signed-PageRank
+Paper refference: https://iqua.ece.toronto.edu/papers/xyin-tkde21.pdf
 
 In this project, we have developed a powerful maximization framework specifically designed for analyzing signed social networks using the Signed-PageRank algorithm. Signed social networks capture positive and negative relationships among individuals, providing valuable insights into complex social dynamics.
 
